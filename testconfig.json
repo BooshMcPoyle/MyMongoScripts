@@ -1,0 +1,20 @@
+{
+    "hosts":[
+        {
+            "hostname": "DESKTOP-HQ1LOCN",
+            "username": "gadmin",
+            "password": "AdminAdmin1",
+            "ports": [27001, 27011, 27012]
+        },
+        {
+            "hostname": "DESKTOP-HQ1LOCN",
+            "username": "",
+            "password": "",
+            "ports": [27013, 27014, 27016]
+        }
+    ],
+    "defaultUsername": "gadmin",
+    "defaultPassword": "AdminAdmin1",
+    "periodSeconds": 10,
+    "timeoutSeconds": 4
+}
